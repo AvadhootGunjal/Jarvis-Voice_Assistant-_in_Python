@@ -1,0 +1,26 @@
+1) pyttsx3 : Is a Python library that allows you to convert text to speech (TTS). It provides a simple 
+             interface to work with various speech engines and allows you to customize speech properties
+             like rate, volume, and voice.
+             It works offline and supports multiple platforms including Windows, macOS, and Linux.
+
+Installation: 
+
+"pip install pyttsx3"
+
+2)speech_recognition:The speech_recognition library in Python is used for recognizing speech and converting it into text.
+                     It supports various speech recognition engines and APIs, including Google Web Speech API, Sphinx, and more. 
+                     This library is useful for creating applications that need to process spoken input, such as voice commands,
+                     transcription services, or interactive voice-based applications.
+
+Installation:
+
+"pip install speechRecognition"
+
+3)wikipedia : The wikipedia library in Python is a wrapper around the Wikipedia API that allows you to easily retrieve and 
+              interact with Wikipedia content.
+              You can use it to fetch summaries, full articles, search for articles, and more.
+
+Installation:
+"pip install wikipedia"
+
+
